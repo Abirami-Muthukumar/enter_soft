@@ -1,0 +1,27 @@
+{
+    "Forum": {
+        "item_id": "7371616",
+        "migration": [
+            "2021_09_28_191303_create_forums_table.php",
+            "2021_09_30_115107_create_forum_replies_table.php",
+            "2021_10_03_145622_create_forum_views_table.php",
+            "2021_09_28_172616_AddForumPageToFrontendPage.php",
+            "2021_10_10_183726_AddForumsColumnToHomeContentTable.php",
+            "2023_03_17_162528_AddPermissionForForum.php",
+            "2023_05_04_113048_create_forum_likes_table.php",
+            "2023_04_28_084304_AddColumnInForumTable.php",
+            "2023_05_09_110904_create_forum_reply_likes_table.php",
+            "2023_05_12_162800_add_total_likes_column_to_forum_replies_tables.php",
+            "2023_05_23_125103_add_columns_to_forum_replies_table.php"
+        ],
+        "versions": [
+            "2.0.0"
+        ],
+        "url": [
+            "https://www.aorasoft.com/"
+        ],
+        "notes": [
+            "This is forum module for acsLMS. Thanks for using."
+        ]
+    }
+}
