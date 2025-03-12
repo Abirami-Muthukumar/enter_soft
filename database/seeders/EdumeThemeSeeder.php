@@ -26,7 +26,7 @@ class EdumeThemeSeeder extends Seeder
         UpdateHomeContent('show_banner_subscription_box', 1);
 
         UpdateHomeContent('become_instructor_logo', 'public/frontend/edume/img/banner/become.png');
-        UpdateHomeContent('become_instructor_title', 'Become an instructor brand on platform ACS!');
+        UpdateHomeContent('become_instructor_title', 'Become an instructor brand on platform acs!');
         UpdateHomeContent('become_instructor_sub_title', 'Unlimited access to world-class learning from your laptop tablet, or phone. Join over 15,000+ students');
         UpdateHomeContent('article_title', 'Resources & Insight');
         UpdateHomeContent('article_sub_title', 'You don’t need to be a designer or have any previous of experience with design to take follow classes. You just need curiosity and the desire to learn.');

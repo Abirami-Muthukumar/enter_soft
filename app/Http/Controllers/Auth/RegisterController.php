@@ -140,7 +140,7 @@ class RegisterController extends Controller
 
            // if ($user->role_id == 3) {
 
-                return redirect('https://acs1.entersoft.academy/courses-details/cyber-security-micro-credential-for-educators'); // Replace with actual user dashboard route
+                return redirect('https://acs.entersoft.academy/courses-details/cyber-security-micro-credential-for-educators'); // Replace with actual user dashboard route
 
            // }
           //  return redirect()->route(); // Adjust to your default redirect route

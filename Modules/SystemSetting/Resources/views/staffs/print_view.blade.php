@@ -103,7 +103,7 @@
                 <tr>
                     <td><b>{{__('sale.Website')}}</b></td>
                     <td><b>:</b></td>
-                    <td><a href="#">pos.com</a></td>
+                    <td><a href="#">acs.pos.com</a></td>
                 </tr>
                 <tr>
                     <td><b>{{__('common.Account Name')}}</b></td>

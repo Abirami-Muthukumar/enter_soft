@@ -11859,7 +11859,7 @@
                     "email": "hello@spondonit.com"
                 }
             ],
-            "description": "'Service Provider for acs Lms application'",
+            "description": "'Service Provider for ACS Lms application'",
             "support": {
                 "issues": "https://gitlab.com/spn4/lms-service/-/issues",
                 "source": "https://gitlab.com/spn4/lms-service/-/tree/v2.2.0"

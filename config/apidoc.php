@@ -53,7 +53,7 @@ return [
      * The base URL to be used in examples and the Postman collection.
      * By default, this will be the value of config('app.url').
      */
-    'base_url' => "http://uxseven.com/lms3/",
+    'base_url' => "http://uxseven.com/acs_lms3/",
 
     /*
      * Generate a Postman collection in addition to HTML docs.

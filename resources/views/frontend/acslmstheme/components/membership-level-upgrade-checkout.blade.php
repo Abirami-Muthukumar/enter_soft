@@ -1,4 +1,4 @@
-
+@php
     $user = Auth::user();
 @endphp
 <div>

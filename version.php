@@ -1,5 +1,5 @@
 <?php
-$project_name = 'acsLMS';
+$project_name = 'ACSLMS';
 function getStorageFile($file_name)
 {
     $file = 'storage/app/.' . $file_name;
